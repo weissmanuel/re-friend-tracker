@@ -43,7 +43,7 @@ export class ExampleAppComponent extends path.PathAppComponent {
 
     public getBackendUrl() {
         if (window.location.hostname.indexOf("herokuapp") != -1) {
-            return location.protocol + "//dry-mountain-18481.herokuapp.com/services";
+            return location.protocol + "https://dry-mountain-18481.herokuapp.com/";
         }
         return "http://localhost:8080/services";
     }
