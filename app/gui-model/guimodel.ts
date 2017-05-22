@@ -356,11 +356,11 @@ export class GuiModel {
                             "form": {
                                 "form": "GroupForm"
                             }
-                        },
+                        }
 						
                         
                     ]
-                }
+                },
 				{
                     "id": "activitypage",
                     "elementList": [
