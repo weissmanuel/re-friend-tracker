@@ -382,7 +382,7 @@ export class GuiModel {
                             "color": "orange",
                             "search": true,
                             "data": [ { name: "Movie Why Him" }, { name: "Eating Pizza" }, { name: "Running Eschenberg"}],
-                            "page": "activityviewpage",
+                            "page": "activityviewpage"
                         },
                     ]
                 },
