@@ -356,7 +356,7 @@ export class GuiModel {
                             "form": {
                                 "form": "GroupForm"
                             }
-                        },
+                        }
 						
                         
                     ]
